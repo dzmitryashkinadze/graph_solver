@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="positive" attr.type="boolean" for="node" id="d5" />
+  <key attr.name="PI" attr.type="boolean" for="edge" id="d8" />
+  <key attr.name="value" attr.type="double" for="node" id="d6" />
+  <key attr.name="weight" attr.type="double" for="edge" id="d7" />
+  <key attr.name="unit" attr.type="string" for="node" id="d4" />
+  <key attr.name="SY_Var" attr.type="string" for="node" id="d3" />
+  <key attr.name="ypos" attr.type="int" for="node" id="d2" />
+  <key attr.name="type" attr.type="string" for="node" id="d1" />
+  <key attr.name="xpos" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="0">
+      <data key="d0">8</data>
+      <data key="d1">MG</data>
+      <data key="d2">5</data>
+    </node>
+    <node id="1">
+      <data key="d0">9</data>
+      <data key="d1">E</data>
+      <data key="d2">4</data>
+    </node>
+    <node id="2">
+      <data key="d0">12</data>
+      <data key="d1">E</data>
+      <data key="d2">3</data>
+    </node>
+    <node id="3">
+      <data key="d0">8</data>
+      <data key="d1">E</data>
+      <data key="d2">3</data>
+    </node>
+    <node id="4">
+      <data key="d0">11</data>
+      <data key="d1">E</data>
+      <data key="d2">4</data>
+    </node>
+    <node id="5">
+      <data key="d0">12</data>
+      <data key="d1">MG</data>
+      <data key="d2">5</data>
+    </node>
+    <node id="6">
+      <data key="d0">12</data>
+      <data key="d1">PG</data>
+      <data key="d2">8</data>
+    </node>
+    <node id="7">
+      <data key="d0">8</data>
+      <data key="d1">PG</data>
+      <data key="d2">8</data>
+    </node>
+    <node id="8">
+      <data key="d0">11</data>
+      <data key="d1">MG</data>
+      <data key="d2">6</data>
+    </node>
+    <node id="9">
+      <data key="d0">9</data>
+      <data key="d1">MG</data>
+      <data key="d2">6</data>
+    </node>
+    <node id="10">
+      <data key="d0">11</data>
+      <data key="d1">MG</data>
+      <data key="d2">7</data>
+    </node>
+    <node id="11">
+      <data key="d0">9</data>
+      <data key="d1">MG</data>
+      <data key="d2">7</data>
+    </node>
+    <node id="12">
+      <data key="d0">10</data>
+      <data key="d1">I</data>
+      <data key="d2">10</data>
+      <data key="d6">1.0</data>
+    </node>
+    <node id="13">
+      <data key="d3">E_tot</data>
+      <data key="d0">10</data>
+      <data key="d1">V</data>
+      <data key="d2">1</data>
+      <data key="d4">J</data>
+    </node>
+    <node id="14">
+      <data key="d3">E_kin_1</data>
+      <data key="d0">8</data>
+      <data key="d1">V</data>
+      <data key="d2">2</data>
+      <data key="d4">J</data>
+    </node>
+    <node id="15">
+      <data key="d3">E_kin_2</data>
+      <data key="d0">12</data>
+      <data key="d1">V</data>
+      <data key="d2">2</data>
+      <data key="d4">J</data>
+    </node>
+    <node id="16">
+      <data key="d3">E_pot_1</data>
+      <data key="d0">9</data>
+      <data key="d1">V</data>
+      <data key="d2">3</data>
+      <data key="d4">J</data>
+    </node>
+    <node id="17">
+      <data key="d3">E_pot_2</data>
+      <data key="d0">11</data>
+      <data key="d1">V</data>
+      <data key="d2">3</data>
+      <data key="d4">J</data>
+    </node>
+    <node id="18">
+      <data key="d3">m</data>
+      <data key="d0">10</data>
+      <data key="d1">V</data>
+      <data key="d2">5</data>
+      <data key="d4">kg</data>
+    </node>
+    <node id="19">
+      <data key="d0">7</data>
+      <data key="d3">v1</data>
+      <data key="d5">True</data>
+      <data key="d1">V</data>
+      <data key="d2">8</data>
+      <data key="d4">m/s</data>
+    </node>
+    <node id="20">
+      <data key="d0">13</data>
+      <data key="d3">v2</data>
+      <data key="d5">True</data>
+      <data key="d1">V</data>
+      <data key="d2">8</data>
+      <data key="d4">m/s</data>
+    </node>
+    <node id="21">
+      <data key="d3">h1</data>
+      <data key="d0">9</data>
+      <data key="d1">V</data>
+      <data key="d2">8</data>
+      <data key="d4">m</data>
+    </node>
+    <node id="22">
+      <data key="d3">h2</data>
+      <data key="d0">11</data>
+      <data key="d1">V</data>
+      <data key="d2">8</data>
+      <data key="d4">m</data>
+    </node>
+    <node id="23">
+      <data key="d0">10</data>
+      <data key="d3">g</data>
+      <data key="d6">9.81</data>
+      <data key="d1">C</data>
+      <data key="d2">7</data>
+      <data key="d4">N/kg</data>
+    </node>
+    <node id="24">
+      <data key="d0">9</data>
+      <data key="d1">E</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="25">
+      <data key="d0">11</data>
+      <data key="d1">E</data>
+      <data key="d2">2</data>
+    </node>
+    <edge source="0" target="3">
+      <data key="d7">1.0</data>
+    </edge>
+    <edge source="5" target="2">
+      <data key="d7">1.0</data>
+    </edge>
+    <edge source="6" target="5">
+      <data key="d7">0.5</data>
+    </edge>
+    <edge source="7" target="0">
+      <data key="d7">0.5</data>
+    </edge>
+    <edge source="8" target="4">
+      <data key="d7">1.0</data>
+    </edge>
+    <edge source="9" target="1">
+      <data key="d7">1.0</data>
+    </edge>
+    <edge source="10" target="8">
+      <data key="d7">1.0</data>
+    </edge>
+    <edge source="11" target="9">
+      <data key="d7">1.0</data>
+    </edge>
+    <edge source="12" target="6">
+      <data key="d7">2.0</data>
+      <data key="d8">True</data>
+    </edge>
+    <edge source="12" target="7">
+      <data key="d7">2.0</data>
+      <data key="d8">True</data>
+    </edge>
+    <edge source="13" target="24">
+      <data key="d7">-1.0</data>
+    </edge>
+    <edge source="13" target="25">
+      <data key="d7">-1.0</data>
+    </edge>
+    <edge source="14" target="24">
+      <data key="d7">1.0</data>
+    </edge>
+    <edge source="14" target="3">
+      <data key="d7">-1.0</data>
+    </edge>
+    <edge source="15" target="25">
+      <data key="d7">1.0</data>
+    </edge>
+    <edge source="15" target="2">
+      <data key="d7">-1.0</data>
+    </edge>
+    <edge source="16" target="24">
+      <data key="d7">1.0</data>
+    </edge>
+    <edge source="16" target="1">
+      <data key="d7">-1.0</data>
+    </edge>
+    <edge source="17" target="25">
+      <data key="d7">1.0</data>
+    </edge>
+    <edge source="17" target="4">
+      <data key="d7">-1.0</data>
+    </edge>
+    <edge source="18" target="0">
+      <data key="d7">1.0</data>
+    </edge>
+    <edge source="18" target="8">
+      <data key="d7">1.0</data>
+    </edge>
+    <edge source="18" target="5">
+      <data key="d7">1.0</data>
+    </edge>
+    <edge source="18" target="9">
+      <data key="d7">1.0</data>
+    </edge>
+    <edge source="19" target="7">
+      <data key="d7">1.0</data>
+    </edge>
+    <edge source="20" target="6">
+      <data key="d7">1.0</data>
+    </edge>
+    <edge source="21" target="11">
+      <data key="d7">1.0</data>
+    </edge>
+    <edge source="22" target="10">
+      <data key="d7">1.0</data>
+    </edge>
+    <edge source="23" target="10">
+      <data key="d7">1.0</data>
+    </edge>
+    <edge source="23" target="11">
+      <data key="d7">1.0</data>
+    </edge>
+  </graph>
+</graphml>
